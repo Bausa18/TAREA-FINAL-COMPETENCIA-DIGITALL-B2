@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605231855221YGK5Y</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260523185522HBOK6V</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Exploradores del Mundo Digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María José Sánchez Martín</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Se pretende que el alumnado conozca el concepto, qué es la tecnología y cómo la usamos para aprender. Además, de otro concepto, qué es una plataforma educativa y para qué sirve. Aprender a entrar en Classroom, reconocer sus partes y realizar acciones básicas. Desarrolla habilidades de comunicación oral y escrita explicando procesos sencillos. Así como, participar en dinámicas cooperativas con roles adaptados y se inicia en el uso responsable y seguro de la tecnología. Por último, hacer participes a las familias en el aprendizaje de sus hijos/as. Esta Sda, es globalizada implicando el resto de áreas, desde su planificación y desarrollo  curricular, así como, el uso de la metodología activa aprendizaje cooperativo y ejecución a través de las distintas actividades de la Taxonomía de Bloom. Posteriormente, ser evaluada a través de unos criterios de evaluación, vinculados a unas competencias específicas y saberes básicos que se trabajen en la Sda y utilizando una rúbrica  y lista de cotejo.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779553442166</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779555291570-zkm97kd5s</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>index.html</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>index.html</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779554033825-dzzy63w1j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779554033825-dzzy63w1j</odePageId>
+      <odeBlockId>block-1779554614894-g762jii1w</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779554033825-dzzy63w1j</odePageId>
+          <odeBlockId>block-1779554614894-g762jii1w</odeBlockId>
+          <odeIdeviceId>idevice-1779554614893-yde7avuuk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este documento organiza y relaciona las tareas del proyecto con los criterios de evaluación, las competencias específicas implicadas y observaciones útiles para facilitar su aplicación por parte de cualquier docente del equipo educativo.</p>
+<p><strong>1. Tabla de relación entre tareas y criterios de evaluación.<br /></strong></p>
+<table width="100%">
+<tbody>
+<tr>
+<td>
+<p><strong>TAREA</strong></p>
+</td>
+<td>
+<p><strong>CRITERIO DE EVALUACIÓN</strong></p>
+</td>
+<td>
+<p><strong>COMPETENCIA(S) ESPECÍFICA(S)</strong></p>
+</td>
+<td>
+<p><strong>AGRUPAMIENTO</strong></p>
+</td>
+<td>
+<p><strong>TIEMPO</strong></p>
+</td>
+<td>
+<p><strong>HERRAMIENTA DIGITAL</strong></p>
+</td>
+<td>
+<p><strong>OBSERVACIONES PARA EL DOCENTE</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Explica qué es Classroom y para qué sirve.</p>
+</td>
+<td>
+<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>
+</td>
+<td>
+<p>CCL3, CD1, CD2</p>
+</td>
+<td>
+<p>Grupos cooperativos de 4</p>
+</td>
+<td>
+<p>2 sesiones de 30 min</p>
+</td>
+<td>
+<p>Padlet + Classroom</p>
+</td>
+<td>
+<p>Introducir ejemplos visuales; comprobar comprensión mediante preguntas guiadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Identifica dispositivos digitales del aula y del hogar.</p>
+</td>
+<td>
+<p>6.1.b. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales.</p>
+</td>
+<td>
+<p>CD1, CD2, CD3</p>
+</td>
+<td>
+<p>Grupos de 4</p>
+</td>
+<td>
+<p>2 sesiones</p>
+</td>
+<td>
+<p>Padlet (subida de imágenes)</p>
+</td>
+<td>
+<p>Facilitar un banco de imágenes inicial; promover la comparación entre dispositivos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Compara comunicación oral y digital.</p>
+</td>
+<td>
+<p>2.5.b. Comunicar resultados explicando pasos seguidos con ayuda de un guion.</p>
+</td>
+<td>
+<p>CCL3, CE3</p>
+</td>
+<td>
+<p>Gran grupo cooperativo</p>
+</td>
+<td>
+<p>2 sesiones</p>
+</td>
+<td>
+<p>Classroom</p>
+</td>
+<td>
+<p>Proporcionar un guion estructurado; fomentar la participación equitativa.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sube una foto o dibujo propio a Padlet siguiendo instrucciones.</p>
+</td>
+<td>
+<p>3.3.b. Participar en la resolución guiada de problemas sencillos de programación.</p>
+</td>
+<td>
+<p>CD3, CD4</p>
+</td>
+<td>
+<p>Gran grupo</p>
+</td>
+<td>
+<p>2 sesiones</p>
+</td>
+<td>
+<p>Padlet</p>
+</td>
+<td>
+<p>Modelar el proceso en la pizarra digital; revisar permisos y seguridad.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Valora si su publicación cumple normas de seguridad digital.</p>
+</td>
+<td>
+<p>2.2.b. Buscar información sencilla en fuentes seguras y fiables.</p>
+</td>
+<td>
+<p>CD1, CPSAA5</p>
+</td>
+<td>
+<p>Grupo cooperativo</p>
+</td>
+<td>
+<p>2 sesiones</p>
+</td>
+<td>
+<p>Classroom</p>
+</td>
+<td>
+<p>Introducir checklist de seguridad; promover reflexión guiada.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Clasifica iconos y funciones según su uso.</p>
+</td>
+<td>
+<p>1.1.b. Comprender mensajes verbales, escritos y visuales.</p>
+</td>
+<td>
+<p>MAT, CD1</p>
+</td>
+<td>
+<p>Grupo cooperativo</p>
+</td>
+<td>
+<p>2 sesiones</p>
+</td>
+<td>
+<p>Vídeo explicativo</p>
+</td>
+<td>
+<p>Repetir ejemplos; usar tarjetas manipulativas para reforzar.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diseña una evidencia digital familiar y la publica en Padlet.</p>
+</td>
+<td>
+<p>4.3.b. Compartir proyectos creativos explicando proceso y resultado.</p>
+</td>
+<td>
+<p>EAR, CD4, CE3</p>
+</td>
+<td>
+<p>Grupo cooperativo</p>
+</td>
+<td>
+<p>3 sesiones</p>
+</td>
+<td>
+<p>Padlet</p>
+</td>
+<td>
+<p>Acompañar el proceso creativo; revisar derechos de autor y uso de imágenes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<h2>2. Competencias específicas implicadas</h2>
+<ul>
+<li><strong>CCL3:</strong> Comunicación oral y escrita en entornos digitales.</li>
+<li><strong>CD1-CD4:</strong> Uso seguro, creativo y responsable de herramientas digitales.</li>
+<li><strong>CPSAA5:</strong> Autorregulación y reflexión sobre el propio aprendizaje.</li>
+<li><strong>CE3:</strong> Expresión creativa y comunicación del proceso.</li>
+<li><strong>MAT:</strong> Clasificación, lógica y pensamiento computacional.</li>
+<li><strong>EAR:</strong> Producción artística digital.</li>
+</ul>
+<h2>3. Recomendaciones para la aplicación en el aula</h2>
+<h3>Organización y gestión del tiempo</h3>
+<ul>
+<li>Alternar tareas individuales, en parejas y en grupos cooperativos para favorecer la participación.</li>
+<li>Reservar tiempo para la reflexión final y la autoevaluación digital.</li>
+</ul>
+<h3>Inclusión y DUA</h3>
+<ul>
+<li>Ofrecer apoyos visuales, plantillas y ejemplos para facilitar la comprensión.</li>
+<li>Permitir diferentes formas de expresión (oral, escrita, visual, digital).</li>
+</ul>
+<h3>Seguridad digital</h3>
+<ul>
+<li>Recordar normas básicas antes de cada publicación.</li>
+<li>Utilizar listas de cotejo para que el alumnado verifique su propio trabajo.</li>
+</ul>
+<h3>Coordinación docente</h3>
+<ul>
+<li>Compartir este documento con el equipo docente para asegurar coherencia metodológica.</li>
+<li>Registrar incidencias técnicas y soluciones para mejorar futuras implementacione</li>
+</ul>
+<h2></h2>
+<h2></h2>
+<h2></h2>
+<h2 style="text-align: left;">4. Observaciones finales</h2>
+<p>Este documento pretende servir como guía práctica para cualquier docente que implemente la situación de aprendizaje. La relación clara entre tareas, criterios y competencias facilita la evaluación competencial y asegura coherencia pedagógica en el desarrollo del proyecto.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779554614893-yde7avuuk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este documento organiza y relaciona las tareas del proyecto con los criterios de evaluación, las competencias específicas implicadas y observaciones útiles para facilitar su aplicación por parte de cualquier docente del equipo educativo.</p>\n<p><strong>1. Tabla de relación entre tareas y criterios de evaluación.<br /></strong></p>\n<table width=\"100%\">\n<tbody>\n<tr>\n<td>\n<p><strong>TAREA</strong></p>\n</td>\n<td>\n<p><strong>CRITERIO DE EVALUACIÓN</strong></p>\n</td>\n<td>\n<p><strong>COMPETENCIA(S) ESPECÍFICA(S)</strong></p>\n</td>\n<td>\n<p><strong>AGRUPAMIENTO</strong></p>\n</td>\n<td>\n<p><strong>TIEMPO</strong></p>\n</td>\n<td>\n<p><strong>HERRAMIENTA DIGITAL</strong></p>\n</td>\n<td>\n<p><strong>OBSERVACIONES PARA EL DOCENTE</strong></p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Explica qué es Classroom y para qué sirve.</p>\n</td>\n<td>\n<p>1.1.b. Utilizar dispositivos y recursos digitales de acuerdo con las necesidades del contexto educativo de forma segura.</p>\n</td>\n<td>\n<p>CCL3, CD1, CD2</p>\n</td>\n<td>\n<p>Grupos cooperativos de 4</p>\n</td>\n<td>\n<p>2 sesiones de 30 min</p>\n</td>\n<td>\n<p>Padlet + Classroom</p>\n</td>\n<td>\n<p>Introducir ejemplos visuales; comprobar comprensión mediante preguntas guiadas.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Identifica dispositivos digitales del aula y del hogar.</p>\n</td>\n<td>\n<p>6.1.b. Localizar, seleccionar y contrastar información de distintas fuentes, incluidas las digitales.</p>\n</td>\n<td>\n<p>CD1, CD2, CD3</p>\n</td>\n<td>\n<p>Grupos de 4</p>\n</td>\n<td>\n<p>2 sesiones</p>\n</td>\n<td>\n<p>Padlet (subida de imágenes)</p>\n</td>\n<td>\n<p>Facilitar un banco de imágenes inicial; promover la comparación entre dispositivos.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Compara comunicación oral y digital.</p>\n</td>\n<td>\n<p>2.5.b. Comunicar resultados explicando pasos seguidos con ayuda de un guion.</p>\n</td>\n<td>\n<p>CCL3, CE3</p>\n</td>\n<td>\n<p>Gran grupo cooperativo</p>\n</td>\n<td>\n<p>2 sesiones</p>\n</td>\n<td>\n<p>Classroom</p>\n</td>\n<td>\n<p>Proporcionar un guion estructurado; fomentar la participación equitativa.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Sube una foto o dibujo propio a Padlet siguiendo instrucciones.</p>\n</td>\n<td>\n<p>3.3.b. Participar en la resolución guiada de problemas sencillos de programación.</p>\n</td>\n<td>\n<p>CD3, CD4</p>\n</td>\n<td>\n<p>Gran grupo</p>\n</td>\n<td>\n<p>2 sesiones</p>\n</td>\n<td>\n<p>Padlet</p>\n</td>\n<td>\n<p>Modelar el proceso en la pizarra digital; revisar permisos y seguridad.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Valora si su publicación cumple normas de seguridad digital.</p>\n</td>\n<td>\n<p>2.2.b. Buscar información sencilla en fuentes seguras y fiables.</p>\n</td>\n<td>\n<p>CD1, CPSAA5</p>\n</td>\n<td>\n<p>Grupo cooperativo</p>\n</td>\n<td>\n<p>2 sesiones</p>\n</td>\n<td>\n<p>Classroom</p>\n</td>\n<td>\n<p>Introducir checklist de seguridad; promover reflexión guiada.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Clasifica iconos y funciones según su uso.</p>\n</td>\n<td>\n<p>1.1.b. Comprender mensajes verbales, escritos y visuales.</p>\n</td>\n<td>\n<p>MAT, CD1</p>\n</td>\n<td>\n<p>Grupo cooperativo</p>\n</td>\n<td>\n<p>2 sesiones</p>\n</td>\n<td>\n<p>Vídeo explicativo</p>\n</td>\n<td>\n<p>Repetir ejemplos; usar tarjetas manipulativas para reforzar.</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>Diseña una evidencia digital familiar y la publica en Padlet.</p>\n</td>\n<td>\n<p>4.3.b. Compartir proyectos creativos explicando proceso y resultado.</p>\n</td>\n<td>\n<p>EAR, CD4, CE3</p>\n</td>\n<td>\n<p>Grupo cooperativo</p>\n</td>\n<td>\n<p>3 sesiones</p>\n</td>\n<td>\n<p>Padlet</p>\n</td>\n<td>\n<p>Acompañar el proceso creativo; revisar derechos de autor y uso de imágenes.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<h2>2. Competencias específicas implicadas</h2>\n<ul>\n<li><strong>CCL3:</strong> Comunicación oral y escrita en entornos digitales.</li>\n<li><strong>CD1-CD4:</strong> Uso seguro, creativo y responsable de herramientas digitales.</li>\n<li><strong>CPSAA5:</strong> Autorregulación y reflexión sobre el propio aprendizaje.</li>\n<li><strong>CE3:</strong> Expresión creativa y comunicación del proceso.</li>\n<li><strong>MAT:</strong> Clasificación, lógica y pensamiento computacional.</li>\n<li><strong>EAR:</strong> Producción artística digital.</li>\n</ul>\n<h2>3. Recomendaciones para la aplicación en el aula</h2>\n<h3>Organización y gestión del tiempo</h3>\n<ul>\n<li>Alternar tareas individuales, en parejas y en grupos cooperativos para favorecer la participación.</li>\n<li>Reservar tiempo para la reflexión final y la autoevaluación digital.</li>\n</ul>\n<h3>Inclusión y DUA</h3>\n<ul>\n<li>Ofrecer apoyos visuales, plantillas y ejemplos para facilitar la comprensión.</li>\n<li>Permitir diferentes formas de expresión (oral, escrita, visual, digital).</li>\n</ul>\n<h3>Seguridad digital</h3>\n<ul>\n<li>Recordar normas básicas antes de cada publicación.</li>\n<li>Utilizar listas de cotejo para que el alumnado verifique su propio trabajo.</li>\n</ul>\n<h3>Coordinación docente</h3>\n<ul>\n<li>Compartir este documento con el equipo docente para asegurar coherencia metodológica.</li>\n<li>Registrar incidencias técnicas y soluciones para mejorar futuras implementacione</li>\n</ul>\n<h2></h2>\n<h2></h2>\n<h2></h2>\n<h2 style=\"text-align: left;\">4. Observaciones finales</h2>\n<p>Este documento pretende servir como guía práctica para cualquier docente que implemente la situación de aprendizaje. La relación clara entre tareas, criterios y competencias facilita la evaluación competencial y asegura coherencia pedagógica en el desarrollo del proyecto.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779551767267-qmfxgc955</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de Datos y Derechos Digitales</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de Datos y Derechos Digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779551767267-qmfxgc955</odePageId>
+      <odeBlockId>block-1779551781300-69asrjpso</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779551767267-qmfxgc955</odePageId>
+          <odeBlockId>block-1779551781300-69asrjpso</odeBlockId>
+          <odeIdeviceId>idevice-1779551781297-2of8m6u8g</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779551781297-2of8m6u8g" title="" href="{{context_path}}/content/resources/Protección de Datos y Derechos Digitales.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Protección de Datos y Derechos Digitales.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779551781297-2of8m6u8g","img_0":{"img":"{{context_path}}/content/resources/Protección de Datos y Derechos Digitales.png","thumbnail":"{{context_path}}/content/resources/Protección de Datos y Derechos Digitales.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1779551767267-qmfxgc955</odePageId>
+      <odeBlockId>block-1779553414379-git436kz8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779551767267-qmfxgc955</odePageId>
+          <odeBlockId>block-1779553414379-git436kz8</odeBlockId>
+          <odeIdeviceId>idevice-1779553414379-gp9m3ek9e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779551888793-i7kmzfs9f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramienta para el producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramienta para el producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779551888793-i7kmzfs9f</odePageId>
+      <odeBlockId>block-1779551890677-7s3q2gbej</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779551888793-i7kmzfs9f</odePageId>
+          <odeBlockId>block-1779551890677-7s3q2gbej</odeBlockId>
+          <odeIdeviceId>idevice-1779551890676-dwvenjzt1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Herramienta digital elegida: Padlet y classroom.<br />Sda: “ Exploradores del Mundo Digital: Conectamos en Familia “<br />Nivel: 2º de Educación Primaria.<br />Metodología: ABP, Cooperativo y DUA.</p>
+<p>En esta Sda trabajamos el primer contacto del alumnado y las familias con la tecnología, entendida como un conjunto de herramientas que nos ayudan a aprender, crear, comunicarnos y compartir información.</p>
+<p>Para ello, he seleccionado Padlet y Google Classroom, dos herramientas muy sencillas y visuales que permiten que los niños/as empiecen a comprender qué es una plataforma digital, para qué sirve y cómo se usa de forma segura.</p>
+<p>Para desarrollar mi Sda, “ Exploradores del Mundo Digital: Conectamos en Familia “, he seleccionado Padlet como herramienta principal de creación y Google Classroom como herramienta de gestión, comunicación y entrega de tareas..</p>
+<p>Padlet permite crear un mural digital colaborativo, donde el alumnado publica imágenes, textos, audios y videos. Es como una pared del aula, pero en internet. Les ayuda a expresar lo que aprenden, a ver el trabajo de los compañeros/as y a compartirlo con sus familias.</p>
+<p>Google Clasroom es la “ la clase digital “, donde reciben tareas muy simples, suben sus trabajos y aprenden a organizarse. Es un primer paso para que entiendan cómo se entrega una actividad digital y cómo se comunica el profesorado con ellos.</p>
+<p>Ambas herramientas permiten trabajar habilidades básicas de la competencia digital, como:<br />- reconocer iconos y botones.<br />- subir un archivo.<br />- escribir un mensaje.<br />- cuidar la privacidad.<br />- revisar antes de publicar.<br />Además, ayudan a desarrollar aprendizajes de varias áreas:<br />1. Lengua Castellana: escribir mensajes.<br />2. Conocimento del Medio: aprender qué es seguro compartir y qué no.<br />3. Artística: crear dibujos y fotos para el mural.<br />4. Competencia digital: usar herramientas reales de forma guiada.</p>
+<p>La combinación de Padlet + Classroom permite que los niños/as aprendan tecnología desde la calma, la sencillez y la seguridad, y que las familias puedan acompañarles y ver su progreso.<br />Considero que estas herramientas son adecuada para esta Sda, porque permiten iniciar al alumnado en el uso responsable de la tecnología, favorecen la participación y facilitan la comunicación con las familias.</p>
+<p>  <a href="https://drive.google.com/file/d/1mvq60bWJ8C9sGH5C-AHbg3j7aDogSiH9/view?usp=sharing">https://drive.google.com/file/d/1mvq60bWJ8C9sGH5C-AHbg3j7aDogSiH9/view?usp=sharing</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779551890676-dwvenjzt1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Herramienta digital elegida: Padlet y classroom.<br />Sda: “ Exploradores del Mundo Digital: Conectamos en Familia “<br />Nivel: 2º de Educación Primaria.<br />Metodología: ABP, Cooperativo y DUA.</p>\n<p>En esta Sda trabajamos el primer contacto del alumnado y las familias con la tecnología, entendida como un conjunto de herramientas que nos ayudan a aprender, crear, comunicarnos y compartir información.</p>\n<p>Para ello, he seleccionado Padlet y Google Classroom, dos herramientas muy sencillas y visuales que permiten que los niños/as empiecen a comprender qué es una plataforma digital, para qué sirve y cómo se usa de forma segura.</p>\n<p>Para desarrollar mi Sda, “ Exploradores del Mundo Digital: Conectamos en Familia “, he seleccionado Padlet como herramienta principal de creación y Google Classroom como herramienta de gestión, comunicación y entrega de tareas..</p>\n<p>Padlet permite crear un mural digital colaborativo, donde el alumnado publica imágenes, textos, audios y videos. Es como una pared del aula, pero en internet. Les ayuda a expresar lo que aprenden, a ver el trabajo de los compañeros/as y a compartirlo con sus familias.</p>\n<p>Google Clasroom es la “ la clase digital “, donde reciben tareas muy simples, suben sus trabajos y aprenden a organizarse. Es un primer paso para que entiendan cómo se entrega una actividad digital y cómo se comunica el profesorado con ellos.</p>\n<p>Ambas herramientas permiten trabajar habilidades básicas de la competencia digital, como:<br />- reconocer iconos y botones.<br />- subir un archivo.<br />- escribir un mensaje.<br />- cuidar la privacidad.<br />- revisar antes de publicar.<br />Además, ayudan a desarrollar aprendizajes de varias áreas:<br />1. Lengua Castellana: escribir mensajes.<br />2. Conocimento del Medio: aprender qué es seguro compartir y qué no.<br />3. Artística: crear dibujos y fotos para el mural.<br />4. Competencia digital: usar herramientas reales de forma guiada.</p>\n<p>La combinación de Padlet + Classroom permite que los niños/as aprendan tecnología desde la calma, la sencillez y la seguridad, y que las familias puedan acompañarles y ver su progreso.<br />Considero que estas herramientas son adecuada para esta Sda, porque permiten iniciar al alumnado en el uso responsable de la tecnología, favorecen la participación y facilitan la comunicación con las familias.</p>\n<p>  <a href=\"https://drive.google.com/file/d/1mvq60bWJ8C9sGH5C-AHbg3j7aDogSiH9/view?usp=sharing\">https://drive.google.com/file/d/1mvq60bWJ8C9sGH5C-AHbg3j7aDogSiH9/view?usp=sharing</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779552052228-viuvbus36</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de Contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de Contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779552052228-viuvbus36</odePageId>
+      <odeBlockId>block-1779552054059-yhcky0qi5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779552052228-viuvbus36</odePageId>
+          <odeBlockId>block-1779552054059-yhcky0qi5</odeBlockId>
+          <odeIdeviceId>idevice-1779552054057-58uoimoj8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¿Qué vamos aprender?</strong></p>
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban">https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</a></p>
+<p><strong>Videos tutoriales</strong></p>
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban">https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</a></p>
+<p><strong>Classroom</strong>:</p>
+<p><a href="https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa">https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa</a></p>
+<p><a href="https://classroom.google.com/c/ODYzNjgzNzc0OTgy/a/ODYzNjg1MDg4NTYy/details">https://classroom.google.com/c/ODYzNjgzNzc0OTgy/a/ODYzNjg1MDg4NTYy/details</a></p>
+<p><strong>Invitación a la clase:</strong></p>
+<p><a href="https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa">https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa</a></p>
+<p><strong>Para trabajar en el aula día a día de manera cooperativa a través del Drive.</strong></p>
+<p><a href="https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing">https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing</a></p>
+<p><strong> Curación de contenidos para la gestión docente en su día a día:</strong></p>
+<p><a href="https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing">https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779552054057-58uoimoj8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¿Qué vamos aprender?</strong></p>\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\">https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</a></p>\n<p><strong>Videos tutoriales</strong></p>\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\">https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</a></p>\n<p><strong>Classroom</strong>:</p>\n<p><a href=\"https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa\">https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa</a></p>\n<p><a href=\"https://classroom.google.com/c/ODYzNjgzNzc0OTgy/a/ODYzNjg1MDg4NTYy/details\">https://classroom.google.com/c/ODYzNjgzNzc0OTgy/a/ODYzNjg1MDg4NTYy/details</a></p>\n<p><strong>Invitación a la clase:</strong></p>\n<p><a href=\"https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa\">https://classroom.google.com/c/ODYzNjgzNzc0OTgy?cjc=c36lvwfa</a></p>\n<p><strong>Para trabajar en el aula día a día de manera cooperativa a través del Drive.</strong></p>\n<p><a href=\"https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing\">https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing</a></p>\n<p><strong> Curación de contenidos para la gestión docente en su día a día:</strong></p>\n<p><a href=\"https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing\">https://drive.google.com/file/d/16DXq9bIuznOTuwwRnnOVjwRx86UCXtaR/view?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779552202671-719yifsqr</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea Temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea Temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779552202671-719yifsqr</odePageId>
+      <odeBlockId>block-1779552289232-73qc6iool</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779552202671-719yifsqr</odePageId>
+          <odeBlockId>block-1779552289232-73qc6iool</odeBlockId>
+          <odeIdeviceId>idevice-1779552289231-c3umd0dp5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779552289231-c3umd0dp5" title="" href="{{context_path}}/content/resources/Línea Temporal.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Línea Temporal.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779552289231-c3umd0dp5","img_0":{"img":"{{context_path}}/content/resources/Línea Temporal.jpeg","thumbnail":"{{context_path}}/content/resources/Línea Temporal.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779552391668-98k7tul2c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779552391668-98k7tul2c</odePageId>
+      <odeBlockId>block-1779552508183-nnfkdafm5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779552391668-98k7tul2c</odePageId>
+          <odeBlockId>block-1779552508183-nnfkdafm5</odeBlockId>
+          <odeIdeviceId>idevice-1779552508181-l1vz3bh2d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>Relación tareas con criterios de evaluación</strong><br /> </p>
+<table width="1161">
+<tbody>
+<tr>
+<td width="341">
+<p><strong>TAREA </strong></p>
+</td>
+<td width="211">
+<p><strong>CRITERIO DE EVALUACIÓN</strong></p>
+</td>
+<td width="199">
+<p><strong>AGRUPAMIENTO</strong></p>
+</td>
+<td width="155">
+<p><strong>TIEMPO APROXIMADO</strong></p>
+</td>
+<td width="255">
+<p><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p><strong>Explica</strong> qué es una plataforma educativa como Classroom y para qué sirve. (Lengua Castellana y Literatura)</p>
+</td>
+<td width="211">
+<p> </p>
+<p><strong>1.1.b.</strong> Utilizar dispositivos y</p>
+<p>recursos digitales de acuerdo con las necesidades del</p>
+<p>contexto educativo de forma</p>
+<p>segura.</p>
+</td>
+<td width="199">
+<p>En grupos pequeños de 4  alumnos/as y cooperativo</p>
+</td>
+<td width="155">
+<p>2 sesiones de 30 minutos</p>
+</td>
+<td width="255">
+<p>Videos explicativos: <strong>Padlet + Classroom</strong></p>
+<p> </p>
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p>I<strong>dentifica</strong> dispositivos digitales del aula y del hogar. (Conocimiento del medio)</p>
+</td>
+<td width="211">
+<p><strong>6.1.b.</strong> Localizar, seleccionar</p>
+<p>y contrastar información de</p>
+<p>distintas fuentes, incluidas</p>
+<p>las digitales, citándolas y recreándolas mediante la</p>
+<p>adaptación creativa de modelos dados.</p>
+</td>
+<td width="199">
+<p>En grupos pequeños de 4  alumnos/as</p>
+</td>
+<td width="155">
+<p> </p>
+<p>2 sesiones de 30 minutos</p>
+</td>
+<td width="255">
+<p> </p>
+<p>Crear en <strong>padlet </strong>imagenes o subir fotos</p>
+<p> </p>
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p><strong>Compara</strong> comunicación oral y digital, y comenta diferencias.</p>
+</td>
+<td width="211">
+<p> </p>
+<p><strong>2.5.b. </strong>Comunicar de forma oral o gráfica el resultado de</p>
+<p>las investigaciones, explicando los pasos seguidos con ayuda de un guion.</p>
+</td>
+<td width="199">
+<p>En gran grupo de 5 a 6  alumnos/as y cooperativo</p>
+</td>
+<td width="155">
+<p>2 sesiones de 30 minutos</p>
+</td>
+<td width="255">
+<p>Entregar a  <strong>Classroom</strong></p>
+<p> </p>
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p><strong>Sube </strong>una foto o dibujo propio a Padlet siguiendo instrucciones. <strong>(Competencia digital)</strong></p>
+</td>
+<td width="211">
+<p><strong>3.3.b. </strong>Mostrar interés por el pensamiento computacional, participando en la resolución guiada de problemas sencillos de programación.</p>
+</td>
+<td width="199">
+<p>En gran grupo de 5 a 6  alumnos/as y cooperativo</p>
+</td>
+<td width="155">
+<p>2 sesiones de 30 minutos</p>
+</td>
+<td width="255">
+<p>Diseñar o crear además de subir a <strong>Padlet .</strong></p>
+<p> </p>
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p><strong>Valora</strong> si su publicación cumple normas de seguridad digital. <strong>(Educación computacional)</strong></p>
+</td>
+<td width="211">
+<p><strong>2.2.b.</strong> Buscar información</p>
+<p>sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural,</p>
+<p>social y cultural.</p>
+</td>
+<td width="199">
+<p>En grupo cooperativo</p>
+</td>
+<td width="155">
+<p> </p>
+<p>2 sesiones de 30 minutos</p>
+</td>
+<td width="255">
+<p>Subir información a</p>
+<p><strong>Classroom</strong></p>
+<p><strong> </strong></p>
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p><strong>Clasifica </strong>iconos y funciones según su uso. <strong>(Matemáticas – clasificación y lógica)</strong></p>
+</td>
+<td width="211">
+<p><strong>1.1.b.</strong> Comprender las preguntas planteadas a través</p>
+<p>de diferentes estrategias o</p>
+<p>herramientas, entendiendo</p>
+<p>mensajes verbales, escritos</p>
+<p>y visuales.</p>
+</td>
+<td width="199">
+<p>En grupo cooperativo</p>
+</td>
+<td width="155">
+<p>2 sesiones de 30 minutos</p>
+</td>
+<td width="255">
+<p><strong>https://www.youtube.com/watch?v=HLJtX-W6KGk</strong></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p><strong>Diseña</strong> una evidencia digital familiar y la publica en Padlet. <strong>(Educación Artística + Digital)</strong></p>
+</td>
+<td width="211">
+<p><strong>4.3.b.</strong> Compartir los proyectos creativos, explicando el</p>
+<p>proceso y el resultado final</p>
+<p>obtenido, y valorando las experiencias propias y las de los demás.</p>
+</td>
+<td width="199">
+<p>En grupo cooperativo</p>
+</td>
+<td width="155">
+<p>3 sesiones de 30 minutos</p>
+</td>
+<td width="255">
+<p><a href="https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p> </p>
+</td>
+<td width="211">
+<p> </p>
+</td>
+<td width="199">
+<p> </p>
+</td>
+<td width="155">
+<p> </p>
+</td>
+<td width="255">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="341">
+<p> </p>
+</td>
+<td width="211">
+<p> </p>
+</td>
+<td width="199">
+<p> </p>
+</td>
+<td width="155">
+<p> </p>
+</td>
+<td width="255">
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table width="1163">
+<tbody>
+<tr>
+<td width="1163">
+<p><strong>¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</strong></p>
+</td>
+</tr>
+<tr>
+<td width="1163">
+<p> </p>
+<p>Los problemas técnicos se abordan mediante planificación previa, comprobación de dispositivos, alternativas analógicas (copias impresas o visuales), apoyo entre iguales, comunicación con el equipo TIC del centro y desarrollo de autonomía digital para resolver incidencias sencillas de forma segura.</p>
+<p>Dependiendo del tipo de problema se procederá de una manera u otra, pero debemos adelantarnos a los hechos con la revisión de los medios tecnológicos de los que vamos a hacer uso. Y si es necesario, pedir ayuda al coordinador TDE para la puesta a punto.</p>
+<p>- En caso de que falle alguno de los dispositivos del alumnado: se intentará suplir con otro dispositivo si hubiera y si no es posible, se reubicará al alumnado afectado en otros grupos de trabajo.</p>
+<p>- Dificultades  con el encendido y manejo del ordenador: Instrucciones paso a paso adaptadas a la edad y visualizadas en el proyector, agrupaciones cooperativas con diferentes niveles de conocimiento para poder sacar adelante el grupo y supervisión constante con ayuda del apoyo cuando se dispone.</p>
+<p>- Pérdida de conexión wifi: Debido al módulo en el que está ubicada la clase , en ocasiones tenemos una conexión ,uy débil, por ello dispondremos el horario de uso del aula de informática por si fuese necesario el traslado a la misma.</p>
+<p>- Varios dispositivos bloqueados o inutilizables: Si se tratara de varios dispositivos que  comprometen el trabajo, se propondrá el traslado al aula de informática.</p>
+<p>-Teniendo en cuenta las edades del alumnado y curso con el que estamos trabajando, no podemos pensar en el recurso de hacer uso del móvil en caso de que fuera necesario como una excepción. </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779552508181-l1vz3bh2d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>Relación tareas con criterios de evaluación</strong><br /> </p>\n<table width=\"1161\">\n<tbody>\n<tr>\n<td width=\"341\">\n<p><strong>TAREA </strong></p>\n</td>\n<td width=\"211\">\n<p><strong>CRITERIO DE EVALUACIÓN</strong></p>\n</td>\n<td width=\"199\">\n<p><strong>AGRUPAMIENTO</strong></p>\n</td>\n<td width=\"155\">\n<p><strong>TIEMPO APROXIMADO</strong></p>\n</td>\n<td width=\"255\">\n<p><strong>HERRAMIENTA QUE SE LE SUGERIRÁ AL ALUMNADO</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p><strong>Explica</strong> qué es una plataforma educativa como Classroom y para qué sirve. (Lengua Castellana y Literatura)</p>\n</td>\n<td width=\"211\">\n<p> </p>\n<p><strong>1.1.b.</strong> Utilizar dispositivos y</p>\n<p>recursos digitales de acuerdo con las necesidades del</p>\n<p>contexto educativo de forma</p>\n<p>segura.</p>\n</td>\n<td width=\"199\">\n<p>En grupos pequeños de 4  alumnos/as y cooperativo</p>\n</td>\n<td width=\"155\">\n<p>2 sesiones de 30 minutos</p>\n</td>\n<td width=\"255\">\n<p>Videos explicativos: <strong>Padlet + Classroom</strong></p>\n<p> </p>\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p>I<strong>dentifica</strong> dispositivos digitales del aula y del hogar. (Conocimiento del medio)</p>\n</td>\n<td width=\"211\">\n<p><strong>6.1.b.</strong> Localizar, seleccionar</p>\n<p>y contrastar información de</p>\n<p>distintas fuentes, incluidas</p>\n<p>las digitales, citándolas y recreándolas mediante la</p>\n<p>adaptación creativa de modelos dados.</p>\n</td>\n<td width=\"199\">\n<p>En grupos pequeños de 4  alumnos/as</p>\n</td>\n<td width=\"155\">\n<p> </p>\n<p>2 sesiones de 30 minutos</p>\n</td>\n<td width=\"255\">\n<p> </p>\n<p>Crear en <strong>padlet </strong>imagenes o subir fotos</p>\n<p> </p>\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p><strong>Compara</strong> comunicación oral y digital, y comenta diferencias.</p>\n</td>\n<td width=\"211\">\n<p> </p>\n<p><strong>2.5.b. </strong>Comunicar de forma oral o gráfica el resultado de</p>\n<p>las investigaciones, explicando los pasos seguidos con ayuda de un guion.</p>\n</td>\n<td width=\"199\">\n<p>En gran grupo de 5 a 6  alumnos/as y cooperativo</p>\n</td>\n<td width=\"155\">\n<p>2 sesiones de 30 minutos</p>\n</td>\n<td width=\"255\">\n<p>Entregar a  <strong>Classroom</strong></p>\n<p> </p>\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p><strong>Sube </strong>una foto o dibujo propio a Padlet siguiendo instrucciones. <strong>(Competencia digital)</strong></p>\n</td>\n<td width=\"211\">\n<p><strong>3.3.b. </strong>Mostrar interés por el pensamiento computacional, participando en la resolución guiada de problemas sencillos de programación.</p>\n</td>\n<td width=\"199\">\n<p>En gran grupo de 5 a 6  alumnos/as y cooperativo</p>\n</td>\n<td width=\"155\">\n<p>2 sesiones de 30 minutos</p>\n</td>\n<td width=\"255\">\n<p>Diseñar o crear además de subir a <strong>Padlet .</strong></p>\n<p> </p>\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>\n<p><strong> </strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p><strong>Valora</strong> si su publicación cumple normas de seguridad digital. <strong>(Educación computacional)</strong></p>\n</td>\n<td width=\"211\">\n<p><strong>2.2.b.</strong> Buscar información</p>\n<p>sencilla de diferentes fuentes seguras y fiables de forma guiada, utilizándola en investigaciones relacionadas con el medio natural,</p>\n<p>social y cultural.</p>\n</td>\n<td width=\"199\">\n<p>En grupo cooperativo</p>\n</td>\n<td width=\"155\">\n<p> </p>\n<p>2 sesiones de 30 minutos</p>\n</td>\n<td width=\"255\">\n<p>Subir información a</p>\n<p><strong>Classroom</strong></p>\n<p><strong> </strong></p>\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p><strong>Clasifica </strong>iconos y funciones según su uso. <strong>(Matemáticas – clasificación y lógica)</strong></p>\n</td>\n<td width=\"211\">\n<p><strong>1.1.b.</strong> Comprender las preguntas planteadas a través</p>\n<p>de diferentes estrategias o</p>\n<p>herramientas, entendiendo</p>\n<p>mensajes verbales, escritos</p>\n<p>y visuales.</p>\n</td>\n<td width=\"199\">\n<p>En grupo cooperativo</p>\n</td>\n<td width=\"155\">\n<p>2 sesiones de 30 minutos</p>\n</td>\n<td width=\"255\">\n<p><strong>https://www.youtube.com/watch?v=HLJtX-W6KGk</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p><strong>Diseña</strong> una evidencia digital familiar y la publica en Padlet. <strong>(Educación Artística + Digital)</strong></p>\n</td>\n<td width=\"211\">\n<p><strong>4.3.b.</strong> Compartir los proyectos creativos, explicando el</p>\n<p>proceso y el resultado final</p>\n<p>obtenido, y valorando las experiencias propias y las de los demás.</p>\n</td>\n<td width=\"199\">\n<p>En grupo cooperativo</p>\n</td>\n<td width=\"155\">\n<p>3 sesiones de 30 minutos</p>\n</td>\n<td width=\"255\">\n<p><a href=\"https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban\"><strong>https://padlet.com/msanmar375_/que-vamos-a-aprender-upzrjcr6o5vtoban</strong></a></p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p> </p>\n</td>\n<td width=\"211\">\n<p> </p>\n</td>\n<td width=\"199\">\n<p> </p>\n</td>\n<td width=\"155\">\n<p> </p>\n</td>\n<td width=\"255\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"341\">\n<p> </p>\n</td>\n<td width=\"211\">\n<p> </p>\n</td>\n<td width=\"199\">\n<p> </p>\n</td>\n<td width=\"155\">\n<p> </p>\n</td>\n<td width=\"255\">\n<p> </p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<table width=\"1163\">\n<tbody>\n<tr>\n<td width=\"1163\">\n<p><strong>¿Cómo consideras que podrían resolverse los problemas técnicos que pudieran surgir con el uso de tecnología en el aula?</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"1163\">\n<p> </p>\n<p>Los problemas técnicos se abordan mediante planificación previa, comprobación de dispositivos, alternativas analógicas (copias impresas o visuales), apoyo entre iguales, comunicación con el equipo TIC del centro y desarrollo de autonomía digital para resolver incidencias sencillas de forma segura.</p>\n<p>Dependiendo del tipo de problema se procederá de una manera u otra, pero debemos adelantarnos a los hechos con la revisión de los medios tecnológicos de los que vamos a hacer uso. Y si es necesario, pedir ayuda al coordinador TDE para la puesta a punto.</p>\n<p>- En caso de que falle alguno de los dispositivos del alumnado: se intentará suplir con otro dispositivo si hubiera y si no es posible, se reubicará al alumnado afectado en otros grupos de trabajo.</p>\n<p>- Dificultades  con el encendido y manejo del ordenador: Instrucciones paso a paso adaptadas a la edad y visualizadas en el proyector, agrupaciones cooperativas con diferentes niveles de conocimiento para poder sacar adelante el grupo y supervisión constante con ayuda del apoyo cuando se dispone.</p>\n<p>- Pérdida de conexión wifi: Debido al módulo en el que está ubicada la clase , en ocasiones tenemos una conexión ,uy débil, por ello dispondremos el horario de uso del aula de informática por si fuese necesario el traslado a la misma.</p>\n<p>- Varios dispositivos bloqueados o inutilizables: Si se tratara de varios dispositivos que  comprometen el trabajo, se propondrá el traslado al aula de informática.</p>\n<p>-Teniendo en cuenta las edades del alumnado y curso con el que estamos trabajando, no podemos pensar en el recurso de hacer uso del móvil en caso de que fuera necesario como una excepción. </p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779552790957-yt8914ioq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779552790957-yt8914ioq</odePageId>
+      <odeBlockId>block-1779552792734-06xc9755t</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779552790957-yt8914ioq</odePageId>
+          <odeBlockId>block-1779552792734-06xc9755t</odeBlockId>
+          <odeIdeviceId>idevice-1779552792733-1oka9s4wm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>¿Con qué voy a evaluar?</strong></p>
+<p>Voy a utilizar cuatro instrumentos de evaluación que se adecúan al nivel de 2º de educación primaria y las características de mi alumnado.<br /></p>
+<table>
+<tbody>
+<tr>
+<td width="392">
+<p><strong>INSTRUMENTOS</strong></p>
+</td>
+<td width="392">
+<p><strong>POR QUÉ LO ELIJO</strong></p>
+</td>
+<td width="392">
+<p><strong>UTILIDAD PARA EL ALUMNADO</strong></p>
+</td>
+</tr>
+<tr>
+<td width="392">
+<p><strong>LISTA DE COTEJO</strong></p>
+</td>
+<td width="392">
+<p>Porque permite digital. Es clara, binaria y adecuada para 2º de primaria. comprobar de forma objetiva y rápida si el alumnado alcanza los indicadores esenciales de la competencia</p>
+</td>
+<td width="392">
+<p>Les ayuda a entender qué se espera exactamente de ellos, facilita la autocorrección y refuerza la autoestima en tareas digitales.</p>
+</td>
+</tr>
+<tr>
+<td width="392">
+<p><strong>RUBRICA DE TRABAJO COOPERATIVO</strong></p>
+</td>
+<td width="392">
+<p>Porque la Sda se basa en ABP y aprendizaje cooperativo, y es necesario evaluar cómo trabajan juntos, no solo el producto final.</p>
+</td>
+<td width="392">
+<p>Les muestra qué significa trabajar bien en equipo, mejora habilidades sociales y favorece la autorregulación y la convivencia.</p>
+</td>
+</tr>
+<tr>
+<td width="392">
+<p><strong>OBSERVACIÓN DIRECTA</strong></p>
+</td>
+<td width="392">
+<p>Porque permite recoger información real y contextualizada sobre el uso de herramientas digitales, la participación y la seguridad en línea. Es flexible y muy útil en primaria.</p>
+</td>
+<td width="392">
+<p>Reciben retroalimentación inmediata, comprenden mejor sus avances y se sienten acompañados durante el proceso de aprendizaje.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100.047%;">
+<tbody>
+<tr>
+<td width="392" style="width: 33.6015%;">
+<p><strong>AUTOEVALUACIÓN DIRECTA</strong></p>
+</td>
+<td width="392" style="width: 32.7735%;">
+<p>Porque la competencia digital y exige que el alumnado reflexione sobre su propio uso de la tecnología. Fomenta la metacognición y la responsabilidad.</p>
+</td>
+<td width="392" style="width: 33.6013%;">
+<p>Les ayuda a tomar conciencia de lo que hacen bien y de lo que deben mejorar, reforzando la autonomía y el pensamiento crítico.</p>
+</td>
+</tr>
+<tr>
+<td width="392" style="width: 33.6015%;">
+<p><strong>AUTOEVALUACIÓN</strong></p>
+</td>
+<td width="392" style="width: 32.7735%;">
+<p>Porque permite evidenciar el proceso completo: publicaciones, entregas, revisiones, comentarios y participación. Es un instrumento digital trazable y verificable.</p>
+</td>
+<td width="392" style="width: 33.6013%;">
+<p>Les ofrece un espacio claro donde ver su progreso, organizar sus tareas y comprender la importancia de la huella digital educativa.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p style="text-align: center;"><strong>PLANTILLA ALINEACIÓN ELEMENTOS CURRICULARES - EVIDENCIAS<br /></strong><br /></p>
+<table>
+<tbody>
+<tr>
+<td colspan="11" width="1170">
+<p style="text-align: center;"><strong>EVALUACIÓN</strong><strong> </strong><strong>COMPETENCIAL</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="293">
+<p><strong> </strong></p>
+<p><strong>ÁREA/MATERIA</strong></p>
+</td>
+<td colspan="2" width="177">
+<p><strong>LCL; </strong><strong>MAT; </strong><strong>CNM; </strong><strong>EAR;</strong></p>
+<p><strong>Globalizada</strong></p>
+</td>
+<td colspan="4" width="407">
+<p><strong> </strong></p>
+<p><strong>NIVEL</strong></p>
+</td>
+<td colspan="3" width="293">
+<p><strong> </strong></p>
+<p><strong>2º EDUCACIÓN PRIMARIA</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="11" width="1170">
+<p style="text-align: center;"><strong>COMPETENCIA</strong><strong> </strong><strong>ESPECÍFICA</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="11" width="1170">
+<p>6. Buscar, seleccionar y contrastar información procedente de dos o más fuentes, de forma planificada y con el debido</p>
+<p>acompañamiento, evaluando su fiabilidad y reconociendo algunos riesgos de manipulación y desinformación, para transformarla en conocimiento y para comunicarla de manera creativa, adoptando un punto de vista personal y respetuoso con la propiedad intelectual. CCL3, CD1, CD2, CD3, CD4, CPSAA5, CC2,CE3.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="470">
+<p><strong>QUÉ</strong></p>
+<p><strong>Desempeño - infinitivo</strong></p>
+</td>
+<td colspan="7" width="699">
+<p><strong> </strong></p>
+<p>Usar tecnologías digitales de forma segura y creativa.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="470">
+<p><strong>CÓMO</strong></p>
+<p><strong>Procedimiento - gerundio</strong></p>
+</td>
+<td colspan="7" width="699">
+<p>Colaborando en parejas y pequeños grupos, aplicando estrategías de aprendizaje cooperativo y DUA</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="470">
+<p><strong>PARA</strong><strong> </strong><strong>QUÉ</strong></p>
+<p><strong>Finalidad.</strong><strong> </strong><strong>“Para”</strong><strong> </strong><strong>+</strong><strong> </strong><strong>infinitivo</strong></p>
+</td>
+<td colspan="7" width="699">
+<p><strong> </strong></p>
+<p>Para comunicar su producción digital familiar en entornos seguros y educativos.</p>
+</td>
+</tr>
+<tr>
+<td colspan="11" width="1170">
+<p><strong>CRITERIO DE EVALUACIÓN</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="11" width="1170">
+<p><strong>6.1.B: Localizar , seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="462">
+<p><strong>ACTUACIÓN</strong></p>
+<p><strong>Infinitivo + el verbo de la acción Conocimiento concreto</strong></p>
+</td>
+<td colspan="8" width="708">
+<p>Usa tecnologías digitales de forma segura y creativa para aprender y comunicar.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" width="462">
+<p><strong>CONTEXTO</strong></p>
+<p><strong>Gerundio o adverbios – modo en que se ha llevado a cabo</strong></p>
+</td>
+<td colspan="8" width="708">
+<p>Colaborando en parejas y pequeños grupos, aplicando estrategías cooperativas y DUA en el aula y el hogar.</p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p><strong>ACCIONES</strong></p>
+</td>
+<td colspan="2" width="228">
+<p><strong>SABERES</strong></p>
+</td>
+<td colspan="2" width="240">
+<p><strong>INDICADORES</strong></p>
+</td>
+<td colspan="5" width="234">
+<p><strong>INSTRUMENTOS </strong><strong>DE</strong></p>
+</td>
+<td width="234">
+<p><strong>EVIDENCIAS</strong></p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p><strong>EVALUABLES</strong></p>
+</td>
+<td colspan="2" width="228">
+<p><strong>BÁSICOS</strong></p>
+</td>
+<td colspan="2" width="240">
+<p><strong>DE LOGRO</strong></p>
+</td>
+<td colspan="5" width="234">
+<p><strong>EVALUACIÓN</strong></p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p> </p>
+</td>
+<td colspan="2" rowspan="11" width="228">
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p>-  Competencia digital y básica.</p>
+<p>-  Uso seguro y responsable de herramientas digitales.</p>
+<p>-  Comunicación oral y escrita en entornos digitales.</p>
+<p>-  Pensamiento computacional.</p>
+</td>
+<td colspan="2" rowspan="11" width="240">
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p>-  Utiliza herramientas digitales con autonomía y seguridad.</p>
+<p>-  Colabora eficazmente en tareas digitales grupales.</p>
+<p>-  Aplica estrategias grupales.</p>
+<p>-  Comunica su producción digital con claridad y respeto.</p>
+</td>
+<td colspan="5" width="234">
+<p>- Lista de cotejo.</p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p> </p>
+</td>
+<td colspan="5" width="234">
+<p>- Rúbrica de trabajo cooperativo.</p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p> </p>
+</td>
+<td colspan="5" width="234">
+<p>- Observación directa y autoevaluación.</p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p>- Identificar dispositivos digitales y sus usos.</p>
+</td>
+<td colspan="5" width="234">
+<p>- Registro de participación en Padlet y Classroom.</p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p>- Crear una carpeta en Drive y publicar en Padlet.</p>
+</td>
+<td colspan="5" width="234">
+<p><strong>1. Ejemplo de lista de cotejo</strong></p>
+</td>
+<td width="234">
+<p>- Presentación oral grabada o en directo.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" width="234">
+<p>-  Reflexionar sobre el uso responsable de la tecnología.</p>
+<p>-  Presentar oralmente el mapa digital familiar.</p>
+</td>
+<td rowspan="6" width="10">
+<p> </p>
+</td>
+<td width="135">
+<p><strong>INDICADORES </strong><strong>DE LOGRO</strong></p>
+</td>
+<td colspan="2" width="44">
+<p><strong>SÍ</strong></p>
+</td>
+<td width="45">
+<p><strong>NO</strong></p>
+</td>
+<td rowspan="3" width="234">
+<p>- Reflexión escrita sobre el uso responsable de la tecnología.</p>
+</td>
+</tr>
+<tr>
+<td width="135">
+<p>Identifica dispositivos digitales.</p>
+</td>
+<td colspan="2" width="44">
+<p> </p>
+</td>
+<td width="45">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="135">
+<p>Explica qué es Classroom y su utilidad.</p>
+</td>
+<td colspan="2" width="44">
+<p> </p>
+</td>
+<td width="45">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p> </p>
+</td>
+<td width="135">
+<p>Clasifica iconos según su función.</p>
+</td>
+<td colspan="2" width="44">
+<p> </p>
+</td>
+<td width="45">
+<p> </p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p> </p>
+</td>
+<td width="135">
+<p>Publica correctamente enPadlet.</p>
+</td>
+<td colspan="2" width="44">
+<p> </p>
+</td>
+<td width="45">
+<p> </p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td width="234">
+<p> </p>
+</td>
+<td width="135">
+<p>Revisa la seguridad</p>
+</td>
+<td colspan="2" width="44">
+<p> </p>
+</td>
+<td width="45">
+<p> </p>
+</td>
+<td width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" width="234">
+<p> </p>
+</td>
+<td colspan="2" rowspan="2" width="228">
+<p> </p>
+</td>
+<td colspan="2" rowspan="2" width="240">
+<p> </p>
+</td>
+<td width="10">
+<p> </p>
+</td>
+<td width="135">
+<p>antes de publicar.</p>
+</td>
+<td colspan="2" width="44">
+<p> </p>
+</td>
+<td width="45">
+<p> </p>
+</td>
+<td rowspan="2" width="234">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="5" width="234">
+<p><br /></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779552792733-1oka9s4wm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>¿Con qué voy a evaluar?</strong></p>\n<p>Voy a utilizar cuatro instrumentos de evaluación que se adecúan al nivel de 2º de educación primaria y las características de mi alumnado.<br /></p>\n<table>\n<tbody>\n<tr>\n<td width=\"392\">\n<p><strong>INSTRUMENTOS</strong></p>\n</td>\n<td width=\"392\">\n<p><strong>POR QUÉ LO ELIJO</strong></p>\n</td>\n<td width=\"392\">\n<p><strong>UTILIDAD PARA EL ALUMNADO</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"392\">\n<p><strong>LISTA DE COTEJO</strong></p>\n</td>\n<td width=\"392\">\n<p>Porque permite digital. Es clara, binaria y adecuada para 2º de primaria. comprobar de forma objetiva y rápida si el alumnado alcanza los indicadores esenciales de la competencia</p>\n</td>\n<td width=\"392\">\n<p>Les ayuda a entender qué se espera exactamente de ellos, facilita la autocorrección y refuerza la autoestima en tareas digitales.</p>\n</td>\n</tr>\n<tr>\n<td width=\"392\">\n<p><strong>RUBRICA DE TRABAJO COOPERATIVO</strong></p>\n</td>\n<td width=\"392\">\n<p>Porque la Sda se basa en ABP y aprendizaje cooperativo, y es necesario evaluar cómo trabajan juntos, no solo el producto final.</p>\n</td>\n<td width=\"392\">\n<p>Les muestra qué significa trabajar bien en equipo, mejora habilidades sociales y favorece la autorregulación y la convivencia.</p>\n</td>\n</tr>\n<tr>\n<td width=\"392\">\n<p><strong>OBSERVACIÓN DIRECTA</strong></p>\n</td>\n<td width=\"392\">\n<p>Porque permite recoger información real y contextualizada sobre el uso de herramientas digitales, la participación y la seguridad en línea. Es flexible y muy útil en primaria.</p>\n</td>\n<td width=\"392\">\n<p>Reciben retroalimentación inmediata, comprenden mejor sus avances y se sienten acompañados durante el proceso de aprendizaje.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<table style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td width=\"392\" style=\"width: 33.6015%;\">\n<p><strong>AUTOEVALUACIÓN DIRECTA</strong></p>\n</td>\n<td width=\"392\" style=\"width: 32.7735%;\">\n<p>Porque la competencia digital y exige que el alumnado reflexione sobre su propio uso de la tecnología. Fomenta la metacognición y la responsabilidad.</p>\n</td>\n<td width=\"392\" style=\"width: 33.6013%;\">\n<p>Les ayuda a tomar conciencia de lo que hacen bien y de lo que deben mejorar, reforzando la autonomía y el pensamiento crítico.</p>\n</td>\n</tr>\n<tr>\n<td width=\"392\" style=\"width: 33.6015%;\">\n<p><strong>AUTOEVALUACIÓN</strong></p>\n</td>\n<td width=\"392\" style=\"width: 32.7735%;\">\n<p>Porque permite evidenciar el proceso completo: publicaciones, entregas, revisiones, comentarios y participación. Es un instrumento digital trazable y verificable.</p>\n</td>\n<td width=\"392\" style=\"width: 33.6013%;\">\n<p>Les ofrece un espacio claro donde ver su progreso, organizar sus tareas y comprender la importancia de la huella digital educativa.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p style=\"text-align: center;\"><strong>PLANTILLA ALINEACIÓN ELEMENTOS CURRICULARES - EVIDENCIAS<br /></strong><br /></p>\n<table>\n<tbody>\n<tr>\n<td colspan=\"11\" width=\"1170\">\n<p style=\"text-align: center;\"><strong>EVALUACIÓN</strong><strong> </strong><strong>COMPETENCIAL</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"2\" width=\"293\">\n<p><strong> </strong></p>\n<p><strong>ÁREA/MATERIA</strong></p>\n</td>\n<td colspan=\"2\" width=\"177\">\n<p><strong>LCL; </strong><strong>MAT; </strong><strong>CNM; </strong><strong>EAR;</strong></p>\n<p><strong>Globalizada</strong></p>\n</td>\n<td colspan=\"4\" width=\"407\">\n<p><strong> </strong></p>\n<p><strong>NIVEL</strong></p>\n</td>\n<td colspan=\"3\" width=\"293\">\n<p><strong> </strong></p>\n<p><strong>2º EDUCACIÓN PRIMARIA</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"11\" width=\"1170\">\n<p style=\"text-align: center;\"><strong>COMPETENCIA</strong><strong> </strong><strong>ESPECÍFICA</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"11\" width=\"1170\">\n<p>6. Buscar, seleccionar y contrastar información procedente de dos o más fuentes, de forma planificada y con el debido</p>\n<p>acompañamiento, evaluando su fiabilidad y reconociendo algunos riesgos de manipulación y desinformación, para transformarla en conocimiento y para comunicarla de manera creativa, adoptando un punto de vista personal y respetuoso con la propiedad intelectual. CCL3, CD1, CD2, CD3, CD4, CPSAA5, CC2,CE3.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" width=\"470\">\n<p><strong>QUÉ</strong></p>\n<p><strong>Desempeño - infinitivo</strong></p>\n</td>\n<td colspan=\"7\" width=\"699\">\n<p><strong> </strong></p>\n<p>Usar tecnologías digitales de forma segura y creativa.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" width=\"470\">\n<p><strong>CÓMO</strong></p>\n<p><strong>Procedimiento - gerundio</strong></p>\n</td>\n<td colspan=\"7\" width=\"699\">\n<p>Colaborando en parejas y pequeños grupos, aplicando estrategías de aprendizaje cooperativo y DUA</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"4\" width=\"470\">\n<p><strong>PARA</strong><strong> </strong><strong>QUÉ</strong></p>\n<p><strong>Finalidad.</strong><strong> </strong><strong>“Para”</strong><strong> </strong><strong>+</strong><strong> </strong><strong>infinitivo</strong></p>\n</td>\n<td colspan=\"7\" width=\"699\">\n<p><strong> </strong></p>\n<p>Para comunicar su producción digital familiar en entornos seguros y educativos.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"11\" width=\"1170\">\n<p><strong>CRITERIO DE EVALUACIÓN</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"11\" width=\"1170\">\n<p><strong>6.1.B: Localizar , seleccionar y contrastar información de distintas fuentes, incluidas las digitales, citándolas y recreándolas mediante la adaptación creativa de modelos dados.</strong></p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" width=\"462\">\n<p><strong>ACTUACIÓN</strong></p>\n<p><strong>Infinitivo + el verbo de la acción Conocimiento concreto</strong></p>\n</td>\n<td colspan=\"8\" width=\"708\">\n<p>Usa tecnologías digitales de forma segura y creativa para aprender y comunicar.</p>\n</td>\n</tr>\n<tr>\n<td colspan=\"3\" width=\"462\">\n<p><strong>CONTEXTO</strong></p>\n<p><strong>Gerundio o adverbios – modo en que se ha llevado a cabo</strong></p>\n</td>\n<td colspan=\"8\" width=\"708\">\n<p>Colaborando en parejas y pequeños grupos, aplicando estrategías cooperativas y DUA en el aula y el hogar.</p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p><strong>ACCIONES</strong></p>\n</td>\n<td colspan=\"2\" width=\"228\">\n<p><strong>SABERES</strong></p>\n</td>\n<td colspan=\"2\" width=\"240\">\n<p><strong>INDICADORES</strong></p>\n</td>\n<td colspan=\"5\" width=\"234\">\n<p><strong>INSTRUMENTOS </strong><strong>DE</strong></p>\n</td>\n<td width=\"234\">\n<p><strong>EVIDENCIAS</strong></p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p><strong>EVALUABLES</strong></p>\n</td>\n<td colspan=\"2\" width=\"228\">\n<p><strong>BÁSICOS</strong></p>\n</td>\n<td colspan=\"2\" width=\"240\">\n<p><strong>DE LOGRO</strong></p>\n</td>\n<td colspan=\"5\" width=\"234\">\n<p><strong>EVALUACIÓN</strong></p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p> </p>\n</td>\n<td colspan=\"2\" rowspan=\"11\" width=\"228\">\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>-  Competencia digital y básica.</p>\n<p>-  Uso seguro y responsable de herramientas digitales.</p>\n<p>-  Comunicación oral y escrita en entornos digitales.</p>\n<p>-  Pensamiento computacional.</p>\n</td>\n<td colspan=\"2\" rowspan=\"11\" width=\"240\">\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p><strong> </strong></p>\n<p>-  Utiliza herramientas digitales con autonomía y seguridad.</p>\n<p>-  Colabora eficazmente en tareas digitales grupales.</p>\n<p>-  Aplica estrategias grupales.</p>\n<p>-  Comunica su producción digital con claridad y respeto.</p>\n</td>\n<td colspan=\"5\" width=\"234\">\n<p>- Lista de cotejo.</p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p> </p>\n</td>\n<td colspan=\"5\" width=\"234\">\n<p>- Rúbrica de trabajo cooperativo.</p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p> </p>\n</td>\n<td colspan=\"5\" width=\"234\">\n<p>- Observación directa y autoevaluación.</p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p>- Identificar dispositivos digitales y sus usos.</p>\n</td>\n<td colspan=\"5\" width=\"234\">\n<p>- Registro de participación en Padlet y Classroom.</p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p>- Crear una carpeta en Drive y publicar en Padlet.</p>\n</td>\n<td colspan=\"5\" width=\"234\">\n<p><strong>1. Ejemplo de lista de cotejo</strong></p>\n</td>\n<td width=\"234\">\n<p>- Presentación oral grabada o en directo.</p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"3\" width=\"234\">\n<p>-  Reflexionar sobre el uso responsable de la tecnología.</p>\n<p>-  Presentar oralmente el mapa digital familiar.</p>\n</td>\n<td rowspan=\"6\" width=\"10\">\n<p> </p>\n</td>\n<td width=\"135\">\n<p><strong>INDICADORES </strong><strong>DE LOGRO</strong></p>\n</td>\n<td colspan=\"2\" width=\"44\">\n<p><strong>SÍ</strong></p>\n</td>\n<td width=\"45\">\n<p><strong>NO</strong></p>\n</td>\n<td rowspan=\"3\" width=\"234\">\n<p>- Reflexión escrita sobre el uso responsable de la tecnología.</p>\n</td>\n</tr>\n<tr>\n<td width=\"135\">\n<p>Identifica dispositivos digitales.</p>\n</td>\n<td colspan=\"2\" width=\"44\">\n<p> </p>\n</td>\n<td width=\"45\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"135\">\n<p>Explica qué es Classroom y su utilidad.</p>\n</td>\n<td colspan=\"2\" width=\"44\">\n<p> </p>\n</td>\n<td width=\"45\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p> </p>\n</td>\n<td width=\"135\">\n<p>Clasifica iconos según su función.</p>\n</td>\n<td colspan=\"2\" width=\"44\">\n<p> </p>\n</td>\n<td width=\"45\">\n<p> </p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p> </p>\n</td>\n<td width=\"135\">\n<p>Publica correctamente enPadlet.</p>\n</td>\n<td colspan=\"2\" width=\"44\">\n<p> </p>\n</td>\n<td width=\"45\">\n<p> </p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td width=\"234\">\n<p> </p>\n</td>\n<td width=\"135\">\n<p>Revisa la seguridad</p>\n</td>\n<td colspan=\"2\" width=\"44\">\n<p> </p>\n</td>\n<td width=\"45\">\n<p> </p>\n</td>\n<td width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td rowspan=\"2\" width=\"234\">\n<p> </p>\n</td>\n<td colspan=\"2\" rowspan=\"2\" width=\"228\">\n<p> </p>\n</td>\n<td colspan=\"2\" rowspan=\"2\" width=\"240\">\n<p> </p>\n</td>\n<td width=\"10\">\n<p> </p>\n</td>\n<td width=\"135\">\n<p>antes de publicar.</p>\n</td>\n<td colspan=\"2\" width=\"44\">\n<p> </p>\n</td>\n<td width=\"45\">\n<p> </p>\n</td>\n<td rowspan=\"2\" width=\"234\">\n<p> </p>\n</td>\n</tr>\n<tr>\n<td colspan=\"5\" width=\"234\">\n<p><br /></p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779553268091-j9gi4nogj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779553268091-j9gi4nogj</odePageId>
+      <odeBlockId>block-1779553300199-obthyz09r</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779553268091-j9gi4nogj</odePageId>
+          <odeBlockId>block-1779553300199-obthyz09r</odeBlockId>
+          <odeIdeviceId>idevice-1779553300198-99mjvlqkj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Autoría: </span></span></strong><br /><em><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">María José Sánchez Martín. </span></span></em><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong>Descripción:</strong><br />Se pretende que el alumnado conozca el concepto, qué es la tecnología y cómo la usamos para aprender. Además, de otro concepto, qué es una plataforma educativa y para qué sirve. Aprender a entrar en Classroom, reconocer sus partes y realizar acciones básicas. Desarrolla habilidades de comunicación oral y escrita explicando procesos sencillos. Así como, participar en dinámicas cooperativas con roles adaptados y se inicia en el uso responsable y seguro de la tecnología. Por último, hacer participes a las familias en el aprendizaje de sus hijos/as. Esta Sda, es globalizada implicando el resto de áreas, desde su planificación y desarrollo  curricular, así como, el uso de la metodología activa aprendizaje cooperativo y ejecución a través de las distintas actividades de la Taxonomía de Bloom. Posteriormente, ser evaluada a través de unos criterios de evaluación, vinculados a unas competencias específicas y saberes básicos que se trabajen en la Sda y utilizando una rúbrica  y lista de cotejo.<br /></span></span></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Licencia de Uso<br /> <img src="{{context_path}}/content/resources/LICENCIA-BY-SA.jpg" width="333" height="123" alt="" /><br />                                   CC BY-SA<br /></span></span></strong></p>
+<p><a href="{{context_path}}/content/resources/exploradores-del-mundo-digital.elpx" title="exploradores-del-mundo-digital.elpx"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="exploradores-del-mundo-digital.elpx">Archivo editable</span></span></strong></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779553300198-99mjvlqkj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Autoría: </span></span></strong><br /><em><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">María José Sánchez Martín. </span></span></em><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong>Descripción:</strong><br />Se pretende que el alumnado conozca el concepto, qué es la tecnología y cómo la usamos para aprender. Además, de otro concepto, qué es una plataforma educativa y para qué sirve. Aprender a entrar en Classroom, reconocer sus partes y realizar acciones básicas. Desarrolla habilidades de comunicación oral y escrita explicando procesos sencillos. Así como, participar en dinámicas cooperativas con roles adaptados y se inicia en el uso responsable y seguro de la tecnología. Por último, hacer participes a las familias en el aprendizaje de sus hijos/as. Esta Sda, es globalizada implicando el resto de áreas, desde su planificación y desarrollo  curricular, así como, el uso de la metodología activa aprendizaje cooperativo y ejecución a través de las distintas actividades de la Taxonomía de Bloom. Posteriormente, ser evaluada a través de unos criterios de evaluación, vinculados a unas competencias específicas y saberes básicos que se trabajen en la Sda y utilizando una rúbrica  y lista de cotejo.<br /></span></span></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Licencia de Uso<br /> <img src=\"{{context_path}}/content/resources/LICENCIA-BY-SA.jpg\" width=\"333\" height=\"123\" alt=\"\" /><br />                                   CC BY-SA<br /></span></span></strong></p>\n<p><a href=\"{{context_path}}/content/resources/exploradores-del-mundo-digital.elpx\" title=\"exploradores-del-mundo-digital.elpx\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"exploradores-del-mundo-digital.elpx\">Archivo editable</span></span></strong></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
